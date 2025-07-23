@@ -55,3 +55,4 @@ Use the following tools and resources to enhance your experience when working wi
 - [Claude Code](https://www.anthropic.com/claude-code)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [AWS Kiro](https://kiro.dev/)
+- [Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/)

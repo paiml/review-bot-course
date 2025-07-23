@@ -54,3 +54,4 @@ Use the following tools and resources to enhance your experience when working wi
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli)
 - [Claude Code](https://www.anthropic.com/claude-code)
 - [GitHub Copilot](https://github.com/features/copilot)
+- [AWS Kiro](https://kiro.dev/)
